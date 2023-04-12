@@ -9,7 +9,9 @@
        alt="snake" /></a>
 </div>
 
-## Tecnologías aprendidas 👨🏻‍💻
+## Tecnologías aprendidas y desarrollo profesional👨🏻‍💻
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecalderon&show_icons=true&theme=transparent)
+
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
