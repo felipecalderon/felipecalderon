@@ -10,7 +10,8 @@
 </div>
 
 ## Tecnologías aprendidas y desarrollo profesional👨🏻‍💻
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecalderon&show_icons=true&theme=transparent)
+![Estadísticas de Felipe](https://github-readme-stats.vercel.app/api?username=felipecalderon&show_icons=true&theme=transparent)
+[![Lenguajes preferidos](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecalderon)](https://github.com/felipecalderon/github-readme-stats)
 
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
