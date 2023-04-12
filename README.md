@@ -11,7 +11,7 @@
 
 ## Tecnologías aprendidas y desarrollo profesional👨🏻‍💻
 ![Estadísticas de Felipe](https://github-readme-stats.vercel.app/api?username=felipecalderon&show_icons=true&theme=transparent)
-[![Lenguajes preferidos](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecalderon&hide=html,php)]
+![Lenguajes preferidos](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecalderon&hide=html,php)
 
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
