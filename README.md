@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">¡Hola Mundo<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">! Soy Felipe Calderón</h1>
-<h4 align="center">Desarollador autónomo en el universo Javascript, amo las nuevas tecnologías que han surgido en torno a JS, Frameworks como NextJS (fullstack), NestJs (backend), Stacks PERN, MERN, bases de datos como Sequelize, Firestore y Firebase, un basto universo que jamás terminaré de aprender, pero full motivado por entender cada vez mejor su funcionamiento. <a href="https://felipecalderon.vercel.app" target="_blank">Te invito a ver mi Portafolio</a> para más detalles.</h4>
+<h4 align="center">Desarollador autónomo en el universo Javascript, amo las nuevas tecnologías que han surgido en torno a JS, Frameworks como NextJS (fullstack), NestJs (backend), Stacks PERN, MERN, bases de datos como Sequelize, Firestore y Firebase, un basto universo que jamás terminaré de aprender, pero full motivado por entender cada vez mejor su funcionamiento.</h4>
 </div>
 
 <div align="center">
