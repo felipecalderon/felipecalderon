@@ -10,9 +10,8 @@
 </div>
 
 ## Tecnologías aprendidas y desarrollo profesional👨🏻‍💻
-![Estadísticas de Felipe](https://github-readme-stats.vercel.app/api?username=felipecalderon&show_icons=true&theme=transparent)
-![Lenguajes preferidos](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecalderon&hide=html,php)
-
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=felipecalderon&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![Resumen y logros](https://github-readme-streak-stats.herokuapp.com/?user=felipecalderon&theme=algolia&hide_border=true)
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
